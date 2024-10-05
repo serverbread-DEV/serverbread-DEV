@@ -6,7 +6,8 @@
 ```typescript
 const SB = {
     sex: Sex.MAN,
-    age: null,
+    age: 16,
+    career： "Senior high school student",
     languages: ["typescript", "javascript", "markdown"],
     tools: ["VSCode", "IDEA"],
     workOn: ["Minecraft", "Web", "ESP32"],
