@@ -8,7 +8,7 @@ const SB = {
     sex: Sex.MAN,
     age: 16,
     career： "Senior high school student",
-    languages: ["typescript", "javascript", "CSharp", "Java", "markdown"],
+    languages: ["TypeScript", "JavaScript", "CSharp", "Java", "C", "Markdown"],
     tools: ["VSCode", "IDEA"],
     workOn: ["Minecraft", "Terraria" "Web", "ESP32"],
     os: "Arch Linux"   // btw i use arch XD
