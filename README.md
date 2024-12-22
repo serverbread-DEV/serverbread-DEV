@@ -8,9 +8,9 @@ const SB = {
     sex: Sex.MAN,
     age: 16,
     career： "Senior high school student",
-    languages: ["typescript", "javascript", "markdown"],
+    languages: ["typescript", "javascript", "CSharp", "Java", "markdown"],
     tools: ["VSCode", "IDEA"],
-    workOn: ["Minecraft", "Web", "ESP32"],
+    workOn: ["Minecraft", "Terraria" "Web", "ESP32"],
     os: "Arch Linux"   // btw i use arch XD
     contacts: {
         github: "serverbread-DEV",   // oh, it's stupid...
