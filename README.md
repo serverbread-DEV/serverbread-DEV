@@ -1,39 +1,38 @@
 # ServerBread 🥔🍞
 
-## aBoUt Me? 🤔
+## aBoUt
 
-🤓👇
 ```typescript
 const SB = {
+    id: "ServerBread"
     sex: Sex.MAN,
-    age: 16,
+    age: 17,
     career： "Senior high school student",
     languages: ["TypeScript", "JavaScript", "CSharp", "Java", "C", "Markdown"],
-    tools: ["VSCode", "IDEA"],
-    workOn: ["Minecraft", "Terraria" "Web", "ESP32"],
-    os: "Arch Linux"   // btw i use arch XD
+    tools: ["VSCode", "WebStorm", "IntelliJ IDEA"],
+    workOn: ["Minecraft", "Terraria", "Osu", "QQBot" "Web", "ESP32"],
+    habit: "Programming, Rhythm Games and Galgame."
+    os: "Arch Linux"   // btw
     contacts: {
-        github: "serverbread-DEV",   // oh, it's stupid...
+        github: "serverbread-DEV",   // ?byd
         email: "serverbread-DEV@qq.com",
         qq: "3819803809"
-        
     }
 };
 
-const sb = new Human(SB);
-sb.code();
-sb.die();
+const sb = new Fw(SB);
+sb.eat()
+  .code()
+  .sleep();
 ```
 
-## dEsCrIpTiOn 🥰
+## dEsCrIpTiOn
 
-你说得对，但是 **ServerBread** 是由SB自主**的一个啥也不会的几把😡。故事发生在一个被称作`Github`的神秘站点，在这里，被Owner选中的人将被assign `issue`，导引 git 之力😭。我将扮演一位名为 `Contributor` 的神秘角色，在自由的 `Pull Request` 中邂逅性格各异、能力独特的大蛇们，和他们一起击败 Bug，找回失散的 commit ——同时，逐步发掘 `Public Archive` 的真相👿。
+TODO
 
-## sTaTuS 😰
+## sTaTuS
 
-飞舞一个，别看。
-
-![SB's GitHub stats](https://github-readme-stats.vercel.app/api?username=serverbread-DEV&count_private=true&show_icons=true&locale=cn)
+![SB's GitHub stats](https://github-readme-stats.vercel.app/api?username=serverbread-DEV&count_private=true&show_icons=true)
 
 <!---
 serverbread-DEV/serverbread-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
