@@ -14,16 +14,16 @@ const SB = {
     habit: "Programming, Rhythm Games and Galgame."
     os: "Arch Linux"   // btw
     contacts: {
-        github: "serverbread-DEV",   // ?byd
-        email: "serverbread-DEV@qq.com",
-        qq: "3819803809"
+        github: "serverbread-DEV",   // ?byd /tp @s @s
+        email: "serverbread@163.com",
     }
 };
 
 const sb = new Fw(SB);
 sb.eat()
   .code()
-  .sleep();
+  .sleep()
+  .die();
 ```
 
 ## dEsCrIpTiOn
