@@ -3,14 +3,14 @@
 ## aBoUt
 
 ```typescript
-const SB = {
-    id: "ServerBread"
+const bread114 = {
+    id: "serverbread"
     sex: Sex.MAN,
-    age: 17,
-    career： "Senior high school student",
+    age: 18,
+    career： "~Senior high school student~",
     languages: ["TypeScript", "JavaScript", "CSharp", "Java", "C", "Markdown"],
-    tools: ["VSCode", "WebStorm", "IntelliJ IDEA"],
-    workOn: ["Minecraft", "Terraria", "Osu", "QQBot" "Web", "ESP32"],
+    tools: ["Zed", "VSCode", "WebStorm", "IntelliJ IDEA"],
+    workOn: ["Minecraft", "Terraria", "osu!", "QQBot" "Web", "ESP32"],
     habit: "Programming, Rhythm Games and Galgame."
     os: "Arch Linux"   // btw
     contacts: {
@@ -18,12 +18,6 @@ const SB = {
         email: "serverbread@163.com",
     }
 };
-
-const sb = new Fw(SB);
-sb.eat()
-  .code()
-  .sleep()
-  .die();
 ```
 
 ## dEsCrIpTiOn
@@ -32,7 +26,7 @@ TODO
 
 ## sTaTuS
 
-![SB's GitHub stats](https://github-readme-stats.vercel.app/api?username=serverbread-DEV&count_private=true&show_icons=true)
+![serverbread's GitHub stats](https://github-readme-stats.vercel.app/api?username=serverbread-DEV&count_private=true&show_icons=true)
 
 <!---
 serverbread-DEV/serverbread-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
